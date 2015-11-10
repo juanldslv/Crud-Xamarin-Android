@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
-    <Compile Include="DataAccess.cs" />
+    <Compile Include="DateAccess.cs" />
     <Compile Include="Editpg.xaml.cs">
       <DependentUpon>Editpg.xaml</DependentUpon>
     </Compile>
